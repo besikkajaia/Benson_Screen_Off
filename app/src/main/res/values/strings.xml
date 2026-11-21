@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Screen Off</string>
+    <string name="app_name">Benson_Screen Off</string>
     <string name="service_description">Нужна только для того, чтобы по нажатию на иконку заблокировать экран. Ничего не читает и не собирает.</string>
-    <string name="enable_hint">Включи «Screen Off» в списке служб и нажми иконку ещё раз</string>
+    <string name="enable_hint">Включи «Benson_Screen Off» в списке служб и нажми иконку ещё раз</string>
     <string name="widget_description">Нажми, чтобы сразу заблокировать экран</string>
 </resources>
